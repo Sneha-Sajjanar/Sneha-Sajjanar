@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sneha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sneha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sneha-Sajjanar&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -83,4 +83,10 @@ Here are some ideas to get you started:
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sneha-Sajjanar&show_icons=true&theme=buefy)
+
+
+
 
