@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and carve some chalks 
 
+-
 
   <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/She/her?gradient=jshine" width="236" height="44">
