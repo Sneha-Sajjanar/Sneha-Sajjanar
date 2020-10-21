@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 [![Twitter](https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fb_5neha)](https://twitter.com/b_5neha)
 [![Linkedin](https://img.shields.io/twitter/url?color=%230FAAFF&label=Linkedin&logo=linkedin&logoColor=%230FAAFF&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsneha-sajjanar-194410184%2F)](https://www.linkedin.com/in/sneha-sajjanar-194410184/)
+[![Linkedin](https://img.shields.io/twitter/url?color=%23EA77FF&label=Instagram&logo=instagram&logoColor=%23EA77FF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fb_5neha%2F)](https://www.instagram.com/b_5neha/)
 
+[![Linkedin]()]()
 
 
 
