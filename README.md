@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and carve some chalks 
-- 😄 Pronouns: <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/She/herShe/her?gradient=jshine" width="226" height="24">
-</a>
+
+
+  <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/She/her?gradient=jshine" width="236" height="44">
+  </a>
 
 ### Spotify Playing 🎧
 
