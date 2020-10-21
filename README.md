@@ -81,6 +81,8 @@ Here are some ideas to get you started:
 
 
 
+![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=Sneha-Sajjanar&show_icons=true&theme=buefy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Sajjanar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
