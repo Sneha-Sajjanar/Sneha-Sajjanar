@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]:https://twitter.com/b_5neha
 [instagram]: https://www.instagram.com/b_5neha/   
 [linkedin]: https://www.linkedin.com/in/sneha-sajjanar-194410184/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
