@@ -66,12 +66,7 @@ Here are some ideas to get you started:
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sneha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sneha-Sajjanar&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
