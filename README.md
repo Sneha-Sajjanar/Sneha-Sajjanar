@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/She/herShe/her?gradient=jshine" width="246" height="54" alt="My pronouns are She/herShe/her">
+</a>
 - ⚡ Fun fact: ...
 -->
 
@@ -30,6 +32,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and carve some chalks 
+- 😄 Pronouns: <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/She/herShe/her?gradient=jshine" width="226" height="24">
+</a>
 
 ### Spotify Playing 🎧
 
