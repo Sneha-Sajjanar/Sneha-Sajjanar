@@ -60,7 +60,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][webdevplaylist]
 [<img align="left" alt="java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />][webdevplaylist]
 [<img align="left" alt="linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />][webdevplaylist]
-
+[<img align="left" alt="ps" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />][webdevplaylist]
+[<img align="left" alt="opencv" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />][webdevplaylist]
+[<img align="left" alt="android" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" />][webdevplaylist]
+[<img align="left" alt="kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][webdevplaylist]
+[<img align="left" alt="c++" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />][webdevplaylist]
 
 
 
