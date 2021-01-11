@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm Sneha 👋</h1>  
 <h2 align="center">❤️ to Build and make people to fall in love with tech</h2>
-<br />
-<img src="https://github.com/Sneha-Sajjanar/Countdown-Design/blob/main/Countdown/Screenshot%202020-10-20%2022.43.24.png" width="600" />
+<img src="https://github.com/Sneha-Sajjanar/Sneha-Sajjanar/blob/main/0001-13088342484_20201114_002524_0000.png" width="700" />
 
 
 
